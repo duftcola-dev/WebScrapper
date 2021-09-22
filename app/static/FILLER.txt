@@ -1,0 +1,3 @@
++++Static Content FOLDER meatn to store statica fiiles like PNG/FPEG ..etc ++++
++++This file is meant to prevent this folder to be deleted
+during a git push in case it is empty since it is being "fill" by a filler+++++

@@ -1,0 +1,19 @@
+{
+    "SearchPattern":{
+        "elemen":"a",
+        "attribute":"href"
+    },
+    
+    "database":{
+
+        "database":"WebScrapper",
+        "table":"Links"
+    },
+    
+    "backend":{
+        "host":"localhost",
+        "port":"8000"
+    }
+
+
+}
